@@ -1,0 +1,105 @@
+2026/05/24
+UPDATE LOG
+
+First developed version
+------
+2026/05/27
+UPDATE LOG
+
+Menu:
+-Reworked menu
+-Reworked Watermark
+-Added Legitbot Indicators
+Legit:
+ -Added SilentFlick
+ -Reworked all Legit
+ -Fixed Triggerbot in Menu
+ -Removed Pro-Spread due to updating
+Visuals:
+ -Added Box Fill
+ -Reworked all ESP
+ -Fixed Chams
+ -Added ambience
+   -Fixed Override FOV
+   -Added Fog Rendering
+   -Added Night Mode
+   -Added Lighting
+   -Added Viewmodel changer
+Misc:
+ -Removed Bunnyhop due to updating
+ -Removed Auto-Strafe due to updating
+Config:
+ -Fixed config system
+ -Reworked config system
+------
+2026/05/30
+UPDATE LOG
+
+Visuals:
+-Reworked visuals
+Rage:
+-Added Ragebot
+Anti-aim:
+-Added anti-aim
+Misc:
+-Added Bunnyhop
+-Added Auto-Strafe
+-Added JumpBug
+-Added Slowwalk
+------
+2026/07/04
+UPDATE LOG
+
+Menu:
+-Fully reworked menu
+Visuals:
+-Reworked visuals
+Rage:
+-Reworked ragebot
+-Added Force Shoot
+-Reworked mindamage
+-Reworked hitchance
+-Fixed some miss reasons
+Skins:
+-Fixed some issues with skinchanger
+Overall:
+-Fixed game crashing
+------
+2026/07/22
+UPDATE LOG
+
+Overall:
+-Reworked full hack
+-Optimizated hack
+Visuals:
+-Reworked and added very big amount of functions
+Rage:
+-Added Force Shoot parametrs
+-Added Extrapolation
+-Reworked Duck Peek Assist
+-Fixed some miss reasons
+Anti-aim:
+-Reworked anti-aim
+Misc:
+-Added Stop at edge
+------
+2026/08/06 17:49
+UPDATE LOG
+
+Rage:
+-Added Force Prediction
+------
+2026/08/11
+UPDATE LOG
+
+Rage:
+-Added Refine Shot
+Overall:
+-Maked hack optimization better
+------
+2026/08/13
+UPDATE LOG
+
+Visuals:
+-Added Ragebot indicators
+------
