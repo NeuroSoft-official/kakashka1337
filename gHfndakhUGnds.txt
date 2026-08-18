@@ -154,3 +154,11 @@ Rage:
 -Added Anti-Tracking on Peek (shoot from historical self position while peeking)
 Misc:
 -Quick peek ring now compensates latency (follows your position with delay)
+------
+2026/08/19
+UPDATE LOG
+
+Visuals:
+-Reworked Backtrack Chams (hitboxes display via lag records, single color)
+Other:
+-Added loader auto-update check fix (version.txt now tracks loader version only, payload version is separate)
