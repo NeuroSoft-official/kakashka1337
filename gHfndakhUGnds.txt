@@ -123,8 +123,7 @@ Loader:
 2026/08/18
 UPDATE LOG
 
-Rage:
--Added max backtrack slider (0-200 ms) instead of ticks
 Visuals:
 -Added Backtrack Chams (ghost pose from lag records, layers, enemy/ally target)
+-Reworked shot hitboxes replays to ent_hitboxes style (full capsule silhouettes, single color)
 -Fixed player/weapon chams being disabled while holding R8 with auto revolver enabled
