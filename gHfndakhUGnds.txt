@@ -103,3 +103,19 @@ UPDATE LOG
 Visuals:
 -Added Ragebot indicators
 ------
+
+------
+2026/08/18
+UPDATE LOG
+
+Other:
+-Added bomb timer (circular timer with defuse/explode status)
+Misc:
+-Added shot hitboxes replays
+-Improved miss reason classification (occlusion fixes)
+Rage:
+-Reworked Duck Peek Assist (standing eye checks: head/chest/pelvis, min damage, teammate block, visualize)
+-Added Auto Stop settings (on land / on air / predictive stop)
+Loader:
+-Added loader version check (auto-update prompt)
+-Added subscription days counter
