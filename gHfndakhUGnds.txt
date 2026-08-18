@@ -143,3 +143,14 @@ Config:
 -Added auto-load of last used config on inject
 Loader:
 -Loader letters (B / BRUTALITY) now match your menu accent color
+
+------
+2026/08/19
+UPDATE LOG
+
+Rage:
+-Added Subtick Stop (instant stop on first subtick)
+-Added Subtick Shot (shot on first subtick)
+-Added Anti-Tracking on Peek (shoot from historical self position while peeking)
+Misc:
+-Quick peek ring now compensates latency (follows your position with delay)
