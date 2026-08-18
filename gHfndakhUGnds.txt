@@ -135,3 +135,11 @@ Rage:
 -Added max backtrack slider (1-12 ticks)
 Visuals:
 -Reworked Backtrack Chams (direct bone override during render, all layers work)
+------
+2026/08/19
+UPDATE LOG
+
+Config:
+-Added auto-load of last used config on inject
+Loader:
+-Loader letters (B / BRUTALITY) now match your menu accent color
