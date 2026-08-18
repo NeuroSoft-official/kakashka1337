@@ -127,3 +127,11 @@ Visuals:
 -Added Backtrack Chams (ghost pose from lag records, layers, enemy/ally target)
 -Reworked shot hitboxes replays to ent_hitboxes style (full capsule silhouettes, single color)
 -Fixed player/weapon chams being disabled while holding R8 with auto revolver enabled
+------
+2026/08/19
+UPDATE LOG
+
+Rage:
+-Added max backtrack slider (1-12 ticks)
+Visuals:
+-Reworked Backtrack Chams (direct bone override during render, all layers work)
