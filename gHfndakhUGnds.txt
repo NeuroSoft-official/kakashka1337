@@ -162,3 +162,14 @@ Visuals:
 -Reworked Backtrack Chams (hitboxes display via lag records, single color)
 Other:
 -Added loader auto-update check fix (version.txt now tracks loader version only, payload version is separate)
+
+------
+2026/08/20
+UPDATE LOG
+
+Loader:
+-Added release / beta builds (beta access is per-account)
+-Added beta cs2 build card in the loader - swap by clicking (visible only for beta accounts)
+-Added release cs2 card rename
+Rage:
+-Subtick Stop, Subtick Shot, Anti-Tracking on Peek (incl. teleport to server pos) moved to beta test functions (not present in release build)
