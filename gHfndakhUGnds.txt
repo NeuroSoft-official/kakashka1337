@@ -173,3 +173,13 @@ Loader:
 -Added release cs2 card rename
 Rage:
 -Subtick Stop, Subtick Shot, Anti-Tracking on Peek (incl. teleport to server pos) moved to beta test functions (not present in release build)
+------
+2026/08/20
+UPDATE LOG
+
+Rage:
+-Anti-Tracking on Peek + Teleport to Server Pos (telescope bind) returned to RELEASE build (works for all weapons: rifles, pistols, zeus, knife)
+-Quick peek ring follows the self-tracked origin (latency-compensated delay)
+Beta (per-account beta build):
+-Subtick Stop / Subtick Shot (test functions, not present in release)
+-Real-Time Animations: AA direction indicator as live arc around the player + own animation layers playback scale (desync)
